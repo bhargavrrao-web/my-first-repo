@@ -19,4 +19,4 @@ jobs:
           python-version: '3.10'
 
       - name: Run Python file
-        run: python hello.py
+        run: python first.py
